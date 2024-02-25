@@ -9,7 +9,7 @@ let displayNavBar = `
 <nav class="bg-white border-gray-200 ">
 <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-6">
 <a href="index.html" class="flex items-center space-x-3 rtl:space-x-reverse">
-    <img src="../image/logo-thormcheat.png" class="h-12" alt="Thormcheat-Logo" />
+    <img src="./image/logo-thormcheat.png" class="h-12" alt="Thormcheat-Logo" />
 </a>
 <div>
 <form class="max-w-md mx-auto">   
@@ -76,7 +76,7 @@ let displayFooter = `
     <div class="md:flex md:gap-[200px] ">
       <div class="mb-6 md:mb-0">
           <a href="index.html" class="flex items-center">
-              <img src="../image/logo-thormcheat.png" class="h-20 me-3" alt="Thormcheat-Logo" />
+              <img src="./image/logo-thormcheat.png" class="h-20 me-3" alt="Thormcheat-Logo" />
           </a>
       </div>
       <div class="grid grid-cols-2 gap-4 sm:gap-6 md:grid-cols-4 sm:grid-cols-3 mb-6 md:mb-0">

@@ -2,19 +2,19 @@
 let adsDisplay = [
     {
       title : "Advertise1",
-      image: "../image/advertise1.png"
+      image: "./image/advertise1.png"
     },
     {
       title : "Advertise2",
-      image: "../image/advertise2.png"
+      image: "./image/advertise2.png"
     },
     {
       title : "Advertise3",
-      image: "../image/advertise3.png"
+      image: "./image/advertise3.png"
     },
     {
       title : "Advertise4",
-      image: "../image/advertise4.png"
+      image: "./image/advertise4.png"
     }
 ]
 let displayAdds = document.querySelector('#displayAdvertiseCard');
@@ -43,42 +43,42 @@ let productsBestSell = [
     {
         title : "Ficus elastica Robusta - Rubber Plant",
         price: 39,
-        image: "../image/bestseller1.png"
+        image: "./image/bestseller1.png"
     },
     {
         title : "Ficus elastica Robusta - Rubber Plant",
         price: 39,
-        image: "../image/bestseller2.png"
+        image: "./image/bestseller2.png"
     },
     {
         title : "Calathea Orbifilio- Rubber Plant",
         price: 39,
-        image: "../image/bestseller3.png"
+        image: "./image/bestseller3.png"
     },
     {
         title : "Artificial - Rubber Plant",
         price: 39,
-        image: "../image/bestseller4.png"
+        image: "./image/bestseller4.png"
     },
     {
         title : "Ficus elastica Robusta - Rubber Plant",
         price: 39,
-        image: "../image/bestseller1.png"
+        image: "./image/bestseller1.png"
     },
     {
         title : "Ficus elastica Robusta - Rubber Plant",
         price: 39,
-        image: "../image/bestseller2.png"
+        image: "./image/bestseller2.png"
     },
     {
         title : "Calathea Orbifilio- Rubber Plant",
         price: 39,
-        image: "../image/bestseller3.png"
+        image: "./image/bestseller3.png"
     },
     {
         title : "Artificial - Rubber Plant",
         price: 39,
-        image: "../image/bestseller4.png"
+        image: "./image/bestseller4.png"
     },
    
 ]
