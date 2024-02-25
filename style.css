@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #ffff;
+}
+body{
+    color: #1F2A37;
+    font-family:sans-serif
+}
+li>a::after{
+  color: red;
+}
